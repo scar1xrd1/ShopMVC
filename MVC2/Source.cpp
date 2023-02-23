@@ -93,7 +93,7 @@ public:
 			int n = stoi(str);
 			str = to_string(++n);
 
-			ofstream file("checks/check" + str + ".txt");
+			ofstream file("checks/ch eck" + str + ".txt");
 
 			last_check = "notepad checks/check" + str + ".txt";
 
